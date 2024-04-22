@@ -1,0 +1,20 @@
+{
+  "name": "diogenes1993",
+  "version": "1.0.0",
+  "description": "loader new profile",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diogenes1993/Diogenes1993.git"
+  },
+  "author": "Albert 2432",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diogenes1993/Diogenes1993/issues"
+  },
+  "homepage": "https://github.com/Diogenes1993/Diogenes1993#readme"
+}
