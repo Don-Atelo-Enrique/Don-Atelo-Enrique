@@ -3,7 +3,7 @@ name: Readme.md
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
   
   schedule:
@@ -39,4 +39,4 @@ jobs:
         git config user.email 113750714+Diogenes1993@users.noreply.github.com
         git add .
         git commit -m "atutomation Readme.md Image"
-        git push origin main
+        git push origin master
