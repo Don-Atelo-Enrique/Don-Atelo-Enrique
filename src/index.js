@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const PATH_FOLDER = '/home/runner/work/Diogenes1993/Diogenes1993/Image/';
+const PATH_FOLDER = '/home/runner/work/Diogenes1993/Diogenes1993/Img/';
 const PATH_TEMPLATE = '/home/runner/work/Diogenes1993/Diogenes1993/src/README.md.tpl';
 const PATH_README = '/home/runner/work/Diogenes1993/Diogenes1993/README.md';
 
