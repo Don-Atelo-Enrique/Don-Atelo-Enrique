@@ -3,7 +3,7 @@ name: Readme.md
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
   
   schedule:
