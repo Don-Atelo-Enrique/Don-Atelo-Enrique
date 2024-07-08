@@ -1,9 +1,9 @@
 ### Hi there 👋, welcome to my space
 
 <p>
-  <img align="left" width="200" height="350" src="https://raw.githubusercontent.com/Diogenes1993/Diogenes1993/master/Img/homercat.png?raw=true">
+  <img align="left" width="200" height="350" src="https://i.pinimg.com/originals/17/2c/65/172c65c0821a80d507f48132f7381b9d.jpg">
   
-### <img src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" width="60" height="35"> My personal profile
+### <img src="https://raw.githubusercontent.com/Diogenes1993/Diogenes1993/master/Img/homercat.png?raw=true" width="60" height="35"> My personal profile
 
 ---
 
