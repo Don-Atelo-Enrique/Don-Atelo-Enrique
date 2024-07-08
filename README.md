@@ -3,14 +3,14 @@
 <p>
   <img align="left" width="200" height="350" src="https://i.pinimg.com/originals/17/2c/65/172c65c0821a80d507f48132f7381b9d.jpg">
   
-### <img src="https://raw.githubusercontent.com/Diogenes1993/Diogenes1993/master/Img/homercat.png?raw=true" width="60" height="35"> My personal profile
+### <img src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" width="60" height="35"> My personal profile
 
 ---
 
 Hello my user is Diogenes1993. I am 22 years old, a space where explain the knowledge that I am acquiring,
 throughout my life and share it whith you can take it as an example for you projects.
 
-<img align="center" width="600" height="200" src="https://i.pinimg.com/originals/7b/46/ea/7b46ea15e172ded621cd65194b07e17c.jpg">
+<img align="center" width="600" height="200" src="https://raw.githubusercontent.com/Diogenes1993/Diogenes1993/master/Img/homercat.png?raw=true">
 
 </p>
 
