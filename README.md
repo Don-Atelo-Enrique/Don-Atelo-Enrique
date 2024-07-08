@@ -77,6 +77,6 @@ throughout my life and share it whith you can take it as an example for you proj
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Diogenes1993&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true&hide=stars&line_height=25"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Diogenes1993&repo=Diogenes1993)](https://github.com/Diogenes1993/Diogenes1993)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Diogenes1993&repo=Diogenes1993&theme=tokyonight)](https://github.com/Diogenes1993/Diogenes1993)
 
 </p>
