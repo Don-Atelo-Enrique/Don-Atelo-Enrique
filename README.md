@@ -1,7 +1,7 @@
 ### Hi there 👋, welcome to my space
 
 <p>
-  <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/Diogenes1993/Diogenes1993/master/Img/homercat.png?raw=true">
+  <img align="left" width="200" height="350" src="https://raw.githubusercontent.com/Diogenes1993/Diogenes1993/master/Img/homercat.png?raw=true">
   
 ### <img src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" width="60" height="35"> My personal profile
 
