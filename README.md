@@ -11,7 +11,7 @@ Hello my user is Diogenes1993. I am 22 years old, a space where explain the know
 throughout my life and share it whith you can take it as an example for you projects.
 
 <div align="center">
-<img align="center" width="200" height="200" src="https://raw.githubusercontent.com/Diogenes1993/Diogenes1993/master/Img/carlostocat.gif?raw=true">
+<img align="center" width="200" height="200" src="https://raw.githubusercontent.com/Diogenes1993/Diogenes1993/master/Img/octojeday.png?raw=true">
 
 </div>
 
@@ -78,6 +78,6 @@ throughout my life and share it whith you can take it as an example for you proj
   
 [![Diogenes1993 Status](https://github-readme-stats.vercel.app/api?username=Diogenes1993&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true&hide=stars&line_heigth=25)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenes1993&layout=compact&hide_title=true&theme=dracula&card_width=150)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenes1993&layout=compact&hide_title=true&theme=dracula&card_width=250)]
 
 </p>
