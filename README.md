@@ -3,7 +3,8 @@
 <p>
   <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/Diogenes1993/Diogenes1993/master/Img/homercat.png?raw=true">
   
-### :cat: My personal profile
+### <img src="https://i.pinimg.com/originals/c7/9f/22/c79f228e19a0bba313fc3520ec7f61cd.gif" width="60" height="30"> My personal profile
+
 ---
 
 Hello my user is Diogenes1993. I am 22 years old, a space where explain the knowledge that I am acquiring,
