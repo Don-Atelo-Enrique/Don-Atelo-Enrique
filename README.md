@@ -9,7 +9,7 @@
 Hello my user is Diogenes1993. I am 22 years old, a space where explain the knowledge that I am acquiring,
 throughout my life and share it whith you can take it as an example for you projects.
 
-<img align="center" width="700" height="200" src="https://i.pinimg.com/originals/7b/46/ea/7b46ea15e172ded621cd65194b07e17c.jpg">
+<img align="center" width="600" height="200" src="https://i.pinimg.com/originals/7b/46/ea/7b46ea15e172ded621cd65194b07e17c.jpg">
 
 </p>
 
