@@ -10,7 +10,7 @@ Hello worlda
 My user is Diogenes1993. I am 22 years old, a space where explain the knowledge that I am acquiring,
 throughout my life and share it whith you can take it as an example for you projects.
 
-![SAMURAI](https://media.tenor.com/vapdwHzWOkIAAAAd/musashi-musashi-miyamoto.gif)
+<img align="center" width="200" height="200" src="https://media.tenor.com/vapdwHzWOkIAAAAd/musashi-musashi-miyamoto.gif">
 
 </p>
 
