@@ -76,8 +76,8 @@ throughout my life and share it whith you can take it as an example for you proj
 
 <p align="center">
   
-[![Diogenes1993 Status](https://github-readme-stats.vercel.app/api?username=Diogenes1993&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true&hide=stars&line_heigth=25)](https://github.com/Diogenes1993/Diogenes1993)
+[![Diogenes1993 Status](https://github-readme-stats.vercel.app/api?username=Diogenes1993&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true&hide=stars&line_heigth=25)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenes1993&layout=compact&hide_title=true&theme=dracula&card_width=250)](https://github.com/Diogenes1993/Diogenes1993)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenes1993&layout=compact&hide_title=true&theme=dracula&card_width=250)]
 
 </p>
