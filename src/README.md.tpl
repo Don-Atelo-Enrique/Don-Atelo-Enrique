@@ -77,5 +77,4 @@ throughout my life and share it whith you can take it as an example for you proj
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Diogenes1993&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true&hide=stars&line_height=25"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenes1993&layout=compact&hide=ruby,TSQL,HTML,Hack&hide_title=true&theme=dracula&card_width=250"/>
 </p>
