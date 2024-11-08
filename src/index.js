@@ -1,8 +1,8 @@
 const fs = require('fs');
 
-const PATH_FOLDER = '/home/runner/work/Diogenes1993/Diogenes1993/Img/';
-const PATH_TEMPLATE = '/home/runner/work/Diogenes1993/Diogenes1993/src/README.md.tpl';
-const PATH_README = '/home/runner/work/Diogenes1993/Diogenes1993/README.md';
+const PATH_FOLDER = '/home/runner/work/Diogenes199/Diogenes199/Img/';
+const PATH_TEMPLATE = '/home/runner/work/Diogenes199/Diogenes199/src/README.md.tpl';
+const PATH_README = '/home/runner/work/Diogenes199/Diogenes199/README.md';
 
 (async () => {
     const [template] = await Promise.all([
