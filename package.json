@@ -1,5 +1,5 @@
 {
-  "name": "diogenes1993",
+  "name": "Don-Atelo-Enrique",
   "version": "1.0.0",
   "description": "loader new profile",
   "main": "index.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Diogenes1993/Diogenes1993.git"
+    "url": "git+https://github.com/Don-Atelo-Enrique/Don-Atelo-Enrique.git"
   },
   "author": "alfred",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Diogenes1993/Diogenes1993/issues"
+    "url": "https://github.com/Don-Atelo-Enrique/Don-Atelo-Enrique/issues"
   },
-  "homepage": "https://github.com/Diogenes1993/Diogenes1993#readme"
+  "homepage": "https://github.com/Don-Atelo-Enrique/Don-Atelo-Enrique#readme"
 }
